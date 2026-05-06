@@ -85,5 +85,5 @@ Full-stack monitoring and analytics platform for real-time operational analysis.
 
 # Contact
 
-- LinkedIn: YOUR_LINK
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/rahul-n-in/
+- Email: rahul.n.in@outlook.com

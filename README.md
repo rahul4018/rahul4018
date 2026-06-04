@@ -1,89 +1,31 @@
-# Rahul N
+### Rahul N — Backend & AI Engineer
 
-Backend-focused Software Engineer building AI-integrated systems, scalable APIs, and production-style backend applications using Python, FastAPI, PostgreSQL, NLP, and Scikit-learn.
+Python · FastAPI · PostgreSQL · NLP · Machine Learning
 
----
-
-## Tech Stack
-
-### Backend
-- Python
-- FastAPI
-- PostgreSQL
-- REST APIs
-- JWT Authentication
-- SQL
-
-### AI / ML
-- NLP
-- Scikit-learn
-- Ollama
-- Streamlit
-- spaCy
-- SHAP
-
-### Tools
-- Git
-- Docker (learning)
-- Render
-- GitHub Actions
+I build production-style backends and AI-integrated applications — from REST APIs and ML inference pipelines to explainable AI dashboards and real-time threat detection systems. Based in Bengaluru.
 
 ---
 
-# Featured Projects
+**What I work with**
 
-## AI Hiring Copilot
-AI-powered hiring platform with resume scoring, NLP pipelines, interview preparation, and application tracking.
-
-**Stack:** FastAPI, PostgreSQL, Streamlit, Ollama, spaCy
-
-### Features
-- Resume-job matching
-- NLP skill extraction
-- AI interview assistant
-- REST API backend
-- Analytics dashboard
-
-[Repository Link](YOUR_LINK)
+```
+Languages    Python · PHP · TypeScript · SQL
+Frameworks   FastAPI · Streamlit · spaCy · scikit-learn · Ollama
+Infra        PostgreSQL · REST APIs · Docker (learning)
+Domains      NLP · MLOps · Cybersecurity AI · Predictive Analytics
+```
 
 ---
 
-## Lightweight AI Threat Detection
-Explainable ML-powered intrusion detection system trained on 125K+ network records.
+**Selected projects**
 
-**Stack:** Scikit-learn, FastAPI, Streamlit, SHAP
-
-### Features
-- Real-time threat classification
-- SHAP explainability
-- FastAPI inference APIs
-- SOC dashboard
-
-[Repository Link](YOUR_LINK)
+| Project | Description |
+|---|---|
+| [ai-hiring-copilot](https://github.com/rahul4018/ai-hiring-copilot) | AI job-application assistant — FastAPI + PostgreSQL + Streamlit + Ollama + spaCy |
+| [lightweight-ai-network-threat-detection](https://github.com/rahul4018/lightweight-ai-network-threat-detection) | Real-time network threat detection with explainable ML and a SOC dashboard |
+| [senapransakthi](https://github.com/rahul4018/senapransakthi) | Full-stack Data Science & AI app — ML backend + interactive TypeScript frontend |
+| [Predictive-Maintenance-AI4I2020](https://github.com/rahul4018/Predictive-Maintenance-AI4I2020) | Machine failure prediction on the AI4I 2020 dataset — EDA, preprocessing, ML |
 
 ---
 
-## AI Digital Twin Monitoring System
-Full-stack monitoring and analytics platform for real-time operational analysis.
-
-**Stack:** Node.js, PostgreSQL, JWT, REST APIs
-
-[Repository Link](YOUR_LINK)
-
----
-
-# Current Focus
-
-- Backend engineering
-- AI-integrated systems
-- Production API architecture
-- RAG pipelines
-- Async processing
-- System scalability
-
----
-
-# Contact
-
-- LinkedIn: https://www.linkedin.com/in/rahul-n-in/
-- Email: rahul.n.in@outlook.com
+📍 Bengaluru · Open to backend & AI engineering roles

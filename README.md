@@ -1,6 +1,6 @@
 # Rahul N
 
-Backend Engineer · Bengaluru, India  
+Software Engineer focused on Backend Development and Applied AI
 Python · FastAPI · PostgreSQL · NLP · ML
 
 ---

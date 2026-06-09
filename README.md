@@ -78,13 +78,4 @@ Serving:     local LLM inference (Ollama / similar), Streamlit, FastAPI
 
 ---
 
-## Currently
-
-- Working at Parcx Innovations
-- Deepening work in NLP pipelines and ML model serving
-- Exploring local LLM inference patterns as an alternative to external API dependencies
-- Open to backend and ML engineering roles
-
----
-
 Bengaluru · he/him · [GitHub](https://github.com/rahul4018)

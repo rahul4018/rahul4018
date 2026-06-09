@@ -36,42 +36,42 @@ rahul = {
 
 ## selected projects
 
-### 🧠 [ai-hiring-copilot](https://github.com/rahul4018/ai-hiring-copilot)
+###  [ai-hiring-copilot](https://github.com/rahul4018/ai-hiring-copilot)
 AI-powered recruitment assistant. Parses resumes with spaCy, scores candidates against job descriptions, and surfaces ranked insights via a Streamlit dashboard — backed by FastAPI, PostgreSQL, and local LLM inference. End-to-end hiring intelligence without the SaaS tax.
 
 > `Python` · `FastAPI` · `spaCy` · `PostgreSQL` · `Streamlit` · `LLM`
 
 ---
 
-### 🛡️ [lightweight-ai-network-threat-detection](https://github.com/rahul4018/lightweight-ai-network-threat-detection)
+###  [lightweight-ai-network-threat-detection](https://github.com/rahul4018/lightweight-ai-network-threat-detection)
 Explainable AI system for real-time network intrusion detection. ML classifier with SHAP-based feature attribution, served over FastAPI, visualised in an enterprise-style SOC dashboard. Built for environments where interpretability isn't optional.
 
 > `Python` · `FastAPI` · `SHAP` · `scikit-learn` · `SOC UI`
 
 ---
 
-### 🔧 [Predictive-Maintenance-AI4I2020](https://github.com/rahul4018/Predictive-Maintenance-AI4I2020)
+###  [Predictive-Maintenance-AI4I2020](https://github.com/rahul4018/Predictive-Maintenance-AI4I2020)
 Full ML pipeline on the AI4I 2020 industrial benchmark — EDA, feature engineering, multi-model comparison for early failure detection. Targeting unplanned downtime reduction in manufacturing environments.
 
 > `Python` · `Jupyter` · `scikit-learn` · `pandas` · `matplotlib`
 
 ---
 
-### 🌐 [senapransakthi](https://github.com/rahul4018/senapransakthi)
+###  [senapransakthi](https://github.com/rahul4018/senapransakthi)
 Full-stack AI application — ML inference backend wired to an interactive TypeScript frontend. Data ingestion → model inference → real-time UI, all in one cohesive system.
 
 > `TypeScript` · `Python` · `ML backend` · `full-stack`
 
 ---
 
-### 💊 [pharmacy-management-system](https://github.com/rahul4018/pharmacy-management-system-porject)
+###  [pharmacy-management-system](https://github.com/rahul4018/pharmacy-management-system-porject)
 Comprehensive management system for local pharmacies — inventory, billing, sales, and customer records. Designed for real-world deployment in small-to-mid scale medical stores.
 
 > `Python` · `inventory management` · `billing system`
 
 ---
 
-### 🌦️ [weather-dashboard](https://github.com/rahul4018/weather-dashboard)
+###  [weather-dashboard](https://github.com/rahul4018/weather-dashboard)
 Clean, responsive dashboard consuming live weather API data. TypeScript-first, demonstrates real API integration, frontend state management, and production-ready UI patterns.
 
 > `TypeScript` · `HTML/CSS` · `REST API` · `frontend`

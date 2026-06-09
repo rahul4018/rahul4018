@@ -1,14 +1,5 @@
 <div align="center">
-
-```
-██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗
-██╔══██╗██╔══██╗██║  ██║██║   ██║██║
-██████╔╝███████║███████║██║   ██║██║
-██╔══██╗██╔══██║██╔══██║██║   ██║██║
- ██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-```
-
+ 
 ### Backend & AI Engineer · Bengaluru, India
 **Building production-grade APIs, ML pipelines, and AI-integrated systems**
 

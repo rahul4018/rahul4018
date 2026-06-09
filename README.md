@@ -1,92 +1,90 @@
-<div align="center">
- 
-### Backend & AI Engineer · Bengaluru, India
-**Building production-grade APIs, ML pipelines, and AI-integrated systems**
+# Rahul N
 
-[![GitHub followers](https://img.shields.io/github/followers/rahul4018?style=flat-square&color=0a0a0a&labelColor=111&label=followers)](https://github.com/rahul4018?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=rahul4018&style=flat-square&color=0a0a0a&label=profile+views)](https://github.com/rahul4018)
-
-</div>
+Backend Engineer · Bengaluru, India  
+Python · FastAPI · PostgreSQL · NLP · ML
 
 ---
 
-## what i build
+## What I Work On
 
-I work at the intersection of backend engineering and applied AI — turning raw data and models into systems that actually run in production. FastAPI services, ML inference pipelines, NLP tooling, real-time dashboards. I care about clean architecture, explainability, and shipping things that work under load.
+I build backend services and ML pipelines primarily in Python. My recent work sits across two areas: REST API development with FastAPI and PostgreSQL, and applied machine learning covering NLP, classification, and explainability tooling (SHAP).
 
-```python
-rahul = {
-    "stack":    ["Python", "FastAPI", "PostgreSQL", "spaCy", "scikit-learn", "SHAP", "Streamlit"],
-    "domains":  ["NLP", "Predictive ML", "Network Security AI", "HR Tech", "IoT / Industrial AI"],
-    "infra":    ["REST APIs", "local LLM inference", "SOC dashboards", "real-time data pipelines"],
-    "vibe":     "if it's not in production, it's just a notebook",
-}
+The projects below are portfolio and learning projects. They are not currently deployed to production environments, but are built with the intent of reflecting real engineering decisions — data modelling, API design, model evaluation, and system integration.
+
+---
+
+## Projects
+
+### [ai-hiring-copilot](https://github.com/rahul4018/ai-hiring-copilot)
+
+A resume parsing and candidate-matching tool. Uses spaCy for named-entity extraction from resume text, scores candidates against job descriptions, and presents ranked results in a Streamlit dashboard. The backend is FastAPI with PostgreSQL persistence. Also integrates a locally-run LLM for generating candidate summaries, avoiding external API calls.
+
+**Stack:** Python, FastAPI, PostgreSQL, spaCy, Streamlit, local LLM inference
+
+---
+
+### [lightweight-ai-network-threat-detection](https://github.com/rahul4018/lightweight-ai-network-threat-detection)
+
+A network intrusion detection classifier built on a standard IDS dataset. Trains a scikit-learn model to classify traffic as benign or malicious, adds SHAP values to explain per-prediction feature attribution, and serves both the predictions and explanations over a FastAPI endpoint. Includes a dashboard UI styled as a SOC (Security Operations Center) view.
+
+The SHAP integration was a deliberate design choice — classification alone gives you a verdict, but SHAP makes the contributing features visible, which matters in a security context.
+
+**Stack:** Python, FastAPI, scikit-learn, SHAP, HTML/CSS dashboard
+
+---
+
+### [Predictive-Maintenance-AI4I2020](https://github.com/rahul4018/Predictive-Maintenance-AI4I2020)
+
+An ML experiment on the [AI4I 2020 Predictive Maintenance dataset](https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset) — a public benchmark for industrial machine failure prediction. Covers exploratory data analysis, feature engineering, and comparison of multiple classifiers (logistic regression, random forest, gradient boosting). The goal was to identify the model and feature set that best detects early failure signals.
+
+This is a Jupyter-based research project, not a served application.
+
+**Stack:** Python, Jupyter, scikit-learn, pandas, matplotlib
+
+---
+
+### [senapransakthi](https://github.com/rahul4018/senapransakthi)
+
+A full-stack application combining a Python ML backend with a TypeScript frontend. The backend handles data ingestion and model inference; the frontend displays results in real time. Built to practise wiring together a model-serving backend with a reactive UI rather than keeping them as separate notebooks and scripts.
+
+**Stack:** Python, TypeScript, REST API
+
+---
+
+### [pharmacy-management-system](https://github.com/rahul4018/pharmacy-management-system-porject)
+
+A management tool for small pharmacies covering medicine inventory, billing, sales tracking, and customer records. Designed with local deployment in mind — small medical stores that need basic record-keeping without a cloud dependency.
+
+**Stack:** Python
+
+---
+
+### [weather-dashboard](https://github.com/rahul4018/weather-dashboard)
+
+A frontend dashboard that fetches and displays live weather data from a public weather API. Demonstrates API integration, basic state management, and TypeScript usage on the frontend.
+
+**Stack:** TypeScript, HTML, CSS, REST API
+
+---
+
+## Stack
+
+```
+Languages:   Python (primary), TypeScript
+Backend:     FastAPI, REST API design, PostgreSQL
+ML/NLP:      scikit-learn, spaCy, SHAP, pandas, matplotlib
+Serving:     local LLM inference (Ollama / similar), Streamlit, FastAPI
 ```
 
 ---
 
-## selected projects
+## Currently
 
-###  [ai-hiring-copilot](https://github.com/rahul4018/ai-hiring-copilot)
-AI-powered recruitment assistant. Parses resumes with spaCy, scores candidates against job descriptions, and surfaces ranked insights via a Streamlit dashboard — backed by FastAPI, PostgreSQL, and local LLM inference. End-to-end hiring intelligence without the SaaS tax.
-
-> `Python` · `FastAPI` · `spaCy` · `PostgreSQL` · `Streamlit` · `LLM`
-
----
-
-###  [lightweight-ai-network-threat-detection](https://github.com/rahul4018/lightweight-ai-network-threat-detection)
-Explainable AI system for real-time network intrusion detection. ML classifier with SHAP-based feature attribution, served over FastAPI, visualised in an enterprise-style SOC dashboard. Built for environments where interpretability isn't optional.
-
-> `Python` · `FastAPI` · `SHAP` · `scikit-learn` · `SOC UI`
+- Working at Parcx Innovations
+- Deepening work in NLP pipelines and ML model serving
+- Exploring local LLM inference patterns as an alternative to external API dependencies
+- Open to backend and ML engineering roles
 
 ---
 
-###  [Predictive-Maintenance-AI4I2020](https://github.com/rahul4018/Predictive-Maintenance-AI4I2020)
-Full ML pipeline on the AI4I 2020 industrial benchmark — EDA, feature engineering, multi-model comparison for early failure detection. Targeting unplanned downtime reduction in manufacturing environments.
-
-> `Python` · `Jupyter` · `scikit-learn` · `pandas` · `matplotlib`
-
----
-
-###  [senapransakthi](https://github.com/rahul4018/senapransakthi)
-Full-stack AI application — ML inference backend wired to an interactive TypeScript frontend. Data ingestion → model inference → real-time UI, all in one cohesive system.
-
-> `TypeScript` · `Python` · `ML backend` · `full-stack`
-
----
-
-###  [pharmacy-management-system](https://github.com/rahul4018/pharmacy-management-system-porject)
-Comprehensive management system for local pharmacies — inventory, billing, sales, and customer records. Designed for real-world deployment in small-to-mid scale medical stores.
-
-> `Python` · `inventory management` · `billing system`
-
----
-
-###  [weather-dashboard](https://github.com/rahul4018/weather-dashboard)
-Clean, responsive dashboard consuming live weather API data. TypeScript-first, demonstrates real API integration, frontend state management, and production-ready UI patterns.
-
-> `TypeScript` · `HTML/CSS` · `REST API` · `frontend`
-
----
-
-## currently
-
-- Deepening work in **NLP pipelines** and **production ML serving**
-- Exploring **local LLM inference** patterns for privacy-first AI systems
-- Open to backend / ML engineering roles in product companies
-
----
-
-## reach out
-
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-rahul4018-0a0a0a?style=flat-square&logo=github)](https://github.com/rahul4018)
-
-</div>
-
----
-
-<div align="center">
-<sub>Bengaluru · he/him · Python, FastAPI, PostgreSQL, NLP</sub>
-</div>
+Bengaluru · he/him · [GitHub](https://github.com/rahul4018)
